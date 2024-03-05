@@ -1,0 +1,28 @@
+div{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color:violet;
+     /* border-style:dashed;
+    border-color: palegreen;
+    border-width: 10px; */
+    /* border: 2px palegreen solid; */
+    /* border-radius: 15%; */
+    /* padding-left: 25px;
+    padding-right: 25px;
+     */
+   padding: 25px;
+   margin: 25px;
+}
+h1{
+    height: 70px;
+    width: 200px;
+    background-color:cornflowerblue;
+    text-transform: capitalize;
+    /* border-style:double;
+    border-color: pink;
+    border-width: 20px; */
+    text-align: center;
+    border:20px double pink ;
+
+}
