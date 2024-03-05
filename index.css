@@ -1,0 +1,33 @@
+ h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-weight: 100;
+ }
+ #heading2{
+    color: darkgreen;
+    text-align: center;
+    font-weight: 200;
+ }
+ #heading3 {
+    color: darkorchid;
+  
+  font-weight: 600;
+ }
+ #heading4 {
+    color: mediumblue;
+    text-align: center;
+    font-weight: 900;
+ }
+#lorem {
+    color: blueviolet;
+    text-decoration: underline;
+
+}
+#rohit img{
+    height: 200px;
+}
+#rohit{
+    display: flex;
+  justify-content: center;
+}
