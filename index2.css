@@ -1,4 +1,4 @@
-div{
+/* div{
     height: 100px;
     width: 100px;
     text-align: center;
@@ -10,7 +10,7 @@ div{
     /* border-radius: 15%; */
     /* padding-left: 25px;
     padding-right: 25px;
-     */
+     
    padding: 25px;
    margin: 25px;
 }
@@ -22,7 +22,39 @@ h1{
     /* border-style:double;
     border-color: pink;
     border-width: 20px; */
-    text-align: center;
-    border:20px double pink ;
+    /* text-align: center;
+    border:20px double pink ; */ 
+
+ /* div{
+    background-color: pink;
+    display: inline;
+ }
+button{
+    display: block; */
+/* } */
+div{
+    padding: 25px;
+    margin: 25px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+#red {
+    background-color: red;
 
 }
+#yellow {
+    background-color: yellow;
+    visibility: hidden;
+   
+}
+#green {
+    background-color: green;
+  
+}
+
+
+
+
+
